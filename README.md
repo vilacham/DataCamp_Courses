@@ -5,3 +5,4 @@ The courses I've started are in different branches, and will be merged only when
 
 ## Completed
 * Intro to Python for Data Science: Python basics, Python lists, functions, packages, NumPy
+* Intermediate Python for Data Science: matplotlib, dictionaries, pandas, logic, control flow, filtering, loops, case study (hacker statistics)
